@@ -47,6 +47,3 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp3ZzR3cnp4bm9pbmR6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72EX5QZ9N9d51dqo/giphy.gif" width="450px" />
 </p>
 
-<p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=Naperehvate&icon=5&color=12" alt="Views" />
-</p>
